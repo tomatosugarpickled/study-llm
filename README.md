@@ -34,7 +34,6 @@
 | `d_image_generator.ipynb` | 이미지 생성 API와 프롬프트 구성 |
 | `e_RAG.ipynb` | PDF 로딩, chunking, FAISS 기반 RAG |
 | `e_RAG-2.ipynb` | Redis semantic cache, RAGAnything, docling 실습 |
-| `인공지능_플랫폼_인터페이스_구현.ipynb` | 프롬프트, parser, 체인 구성 기초 |
 
 ## 프로젝트 적용으로 이어진 부분
 
