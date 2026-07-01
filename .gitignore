@@ -1,0 +1,17 @@
+.env
+.venv/
+venv/
+.hf_home/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Generated RAG/runtime artifacts
+rag_storage/
+rag_output/
+documents/
+images/
+images (2)/
+web_documentation/
+*.log
+
